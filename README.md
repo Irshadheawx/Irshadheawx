@@ -2,7 +2,7 @@
 - 👀 I’m interested in robotics
 - 🌱 I’m currently learning machine learning using python
 - 💞️ I’m looking to collaborate on robotic
-- 📫 How to reach me irshadhuusain.ec19@rvce.edu.in
+- 📫 How to reach me irshadhussain.ec19@rvce.edu.in
 
 <!---
 Irshadhussain/Irshadhussain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
